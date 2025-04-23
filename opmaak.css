@@ -1,0 +1,21 @@
+body{
+    margin-top:75px;
+}
+
+.tekstopmaak{
+    color:darkslategray;
+    padding: 10px;
+    background-color:antiquewhite;
+}
+
+.navigatiebalk{
+    background-color:darkslategray;
+}
+
+.tekstnavigatie{
+    color:antiquewhite;
+}
+
+.ruimteNavigatie{
+    scroll-margin-top:65px;
+}
